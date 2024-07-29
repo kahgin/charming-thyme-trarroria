@@ -1,0 +1,29 @@
+Pizza:
+	Margherita
+	Carbonara
+	Hawaiian
+	Salmone Affumicato
+Pasta:
+	Carbonara 
+	Aglio Olio E Peperoncino
+	Marinara
+	Vongole
+	Truffle Lasagna
+Antipasta:
+	Smoked Salmon Rucola
+	Caprese
+	Portobello
+	Bruschetta
+	Caprese Salad with Pesto Sauce
+Zuppa:
+	Minestrone
+	Zuppa Di Mare
+Dolci:
+	Tiramisu cake
+	Lemon Creme Brulee
+	Panna Cotta
+Drink:
+	Coffee
+	Tea
+	Mineral water
+	Fruit Juice 
